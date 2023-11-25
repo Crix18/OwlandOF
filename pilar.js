@@ -8,7 +8,7 @@ function iniciarSesion() {
     if (usuarioAutenticado) {
         // Redirige al usuario a la página de inicio después de iniciar sesión.        
         //alert("Bienvenido\n" + usuario);
-        window.location.href = "prvowland.html";
+        window.location.href = "index.html";
         } else {
         alert("Credenciales incorrectas. Inténtalo de nuevo.");
     }
