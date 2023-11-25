@@ -4,7 +4,7 @@ function iniciarSesion() {
 
     // Simulación de autenticación exitosa
     var usuarioAutenticado = true;
-    var a = document.getElementById("usuario").value
+
     if (usuarioAutenticado) {
         // Redirige al usuario a la página de inicio después de iniciar sesión.        
         //alert("Bienvenido\n" + usuario);
